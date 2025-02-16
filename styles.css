@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4
+	margin: 0;
+	padding: 0;
+}
+input, button{
+	display: block;
+	width: 100%;
+	margin: 10px 0;
+}
